@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 3rem;
+  background-color: #ffe4c4;
+  padding-bottom: 3rem;
+}
+
+#projects {
+  padding-top: 3rem;
+  background-color: #ffe4c4;
+  padding-bottom: 3rem;
+}
+
+#organization {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  text-align: center;
+}
+
+#contact {
+  padding-top: 3rem;
+  background-color: #ffe4c4;
+  padding-bottom: 3rem;
+}
+
+.footer i {
+  color: aliceblue;
+}
